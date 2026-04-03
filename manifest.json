@@ -1,0 +1,20 @@
+{
+  "name": "Clinical Flow Sheet",
+  "short_name": "Flow Sheet",
+  "description": "Nursing student clinical patient care documentation tool",
+  "start_url": "/clinical-flow-sheet/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3e5.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "medical"],
+  "lang": "en-US"
+}
